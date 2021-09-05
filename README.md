@@ -18,14 +18,14 @@ This will install the node modules defined in the package.json that are required
 
 To run the program, in the same terminal, input the following:
 
-	node goodMatch.js csvName.csv
+	node goodMatch.js people.csv
 
 and press enter.
 
 goodMatch.js : name of the program file.
 
-csvName.csv  : command line parameter that takes the name of the csv file that you wish to use in 
-	       the program.
+people.csv  : command line parameter that takes the name of the csv file that you wish to use in 
+	       the program. This can be replaced with any csv file name.
 
 The program that I have written will defend against incorrect file types and files that do not exist.
 It will output the error to the console to inform the user of the issue.
