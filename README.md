@@ -23,6 +23,7 @@ To run the program, in the same terminal, input the following:
 and press enter.
 
 goodMatch.js : name of the program file.
+
 csvName.csv  : command line parameter that takes the name of the csv file that you wish to use in 
 	       the program.
 
