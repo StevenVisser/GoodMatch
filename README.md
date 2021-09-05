@@ -10,7 +10,7 @@ For this assessment, I have completed all compulsory and optional tasks.
 Before you run the Good Match program, open the terminal in the directory where goodMatch.js is.
 Input the following:
 
-		npm install
+	npm install
 		
 and press enter.
 
@@ -24,7 +24,7 @@ and press enter.
 
 goodMatch.js : name of the program file.
 csvName.csv  : command line parameter that takes the name of the csv file that you wish to use in 
-			   the program.
+	       the program.
 
 The program that I have written will defend against incorrect file types and files that do not exist.
 It will output the error to the console to inform the user of the issue.
@@ -34,9 +34,9 @@ file path.
 The program will output the results to the output.txt file at the end of every run. The output has been
 formatted as follows:
 	
-		The results of Males matched against Females
-		The results of Females matched against Males (the data set reversed)
-		The combination results of the above. This section averages the above scores.
+	The results of Males matched against Females
+	The results of Females matched against Males (the data set reversed)
+	The combination results of the above. This section averages the above scores.
 		
 Each output section will be ranked in descending order.
 
